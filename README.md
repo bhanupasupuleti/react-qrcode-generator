@@ -2,8 +2,6 @@
 
 This app generates Qr Code based on the entered URL. It is also possible to customize and download the generated Qr Code
 
-![Qr Code Generator](./screenshot-dark.webp)
-
 
 ## Table of contents
 
@@ -22,8 +20,6 @@ This app generates Qr Code based on the entered URL. It is also possible to cust
 ## About App
 
 This app generates Qr Code based on the url entered
-
-![Qr Code Generator](./screenshot-light.webp)
 
 Features:
 - Light / dark mode theme switcher
